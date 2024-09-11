@@ -14,7 +14,7 @@ Research Interest
 My research aims to characterize and engineer the electronic correlated states in the strongly correlated Moiré system and the exciton-photon strong coupling in the photonic structures. 
 In the Moiré TMD system, we introduce mechanical misalignment of original TMD lattices to form a pattern with period/quasi-period so-called Moiré supperlattice, which modulates the electron wavefunction through a new-fromed lattice potential called Moiré potential. We are studying the exotic electronic states and the states with topological protection through the spontaneous breaking of symmetries through the formation of Moiré brillouin zone. 
 <center>
-<img src="images/100x.jpg"
+<img src="images/100x.png"
      alt="Dual Gate Electrical Sample"
      style="text-align:center; width:65%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
 </center>
