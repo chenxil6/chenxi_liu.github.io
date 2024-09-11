@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S.E. in Engineering Physics, College of Engineering, University of Michigan, Expected 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2022: Research Assistant
+  * University of Michigan, Department of Physics
+  * Research: Optical and Electrical Characterization of Correlated Electronic States in 2D Moiré Heterostructure
+  * Supervisor: Professor Hui Deng
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021: Research Assistant
+  * University of Michigan, EECS Department
+  * Research: Transmission line design through High-frequency Structral Simulator (HFSS) and gain plane simulation
+  * Supervisor: Professor Ehsan Afshari
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: C++, MATLAB, Python, Mathematica, LabView
+* Cryogenic Confocal Microscopy
+  * above bandgap photoluminescence (PL)  
+  * reflectance contrast (RC)
+  * second harmonic generation
+  * angle-resolved PL and RC
+* Technical Software: ANSYS LUMERICAL, ANSYS HFSS, ANSYS ZEEMAX
 
 Publications
 ======
@@ -61,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Engineering Physics Ambassador (2023-2025)
