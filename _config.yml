@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "chenxi_profile.png"
   name             : "Chenxi Liu"
-  pronouns         : "He/Him/His"  
+  pronouns         : #"He/Him/His"  
   bio              : "Everything is somehow quantum"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
