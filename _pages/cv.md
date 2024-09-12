@@ -33,7 +33,7 @@ Skills
   * reflectance contrast (RC)
   * second harmonic generation
   * angle-resolved PL and RC
-* Technical Software: ANSYS LUMERICAL, ANSYS HFSS, ANSYS ZEEMAX
+* Technical Software: ANSYS LUMERICAL, ANSYS HFSS, ANSYS ZEEMAX, ANSYS DISCOVERY CAD
 
 Publications
 ======
