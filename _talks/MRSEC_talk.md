@@ -1,8 +1,8 @@
 ---
 title: "MRSEC REU Symmposium"
 collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+type: "Poster Presentation"
+permalink: /talks/MRSEC_talk
 venue: "University of Michigan, Department of Physics"
 date: 2022-09
 location: "Ann Arbor, Michigan"
