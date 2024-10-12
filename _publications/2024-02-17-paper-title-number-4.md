@@ -6,7 +6,7 @@ permalink: /publication/2024-09-06
 excerpt: 'We investigated the floquet engineering using pump-probe spectroscopy and transferable DBR cavity.'
 date: 2024-09-06
 venue: 'Nature Communication'
-paperurl: 'https://www.nature.com/articles/s41467-024-52014-0'
+paperurl: 'https://www.nature.com/articles/s41467-024-52014-0.pdf'
 citation: 'Zhou, L., Liu, B., Liu, Y. et al. Cavity Floquet engineering. Nat Commun 15, 7782 (2024). https://doi.org/10.1038/s41467-024-52014-0'
 ---
 This work provide the insights and instrumentation for my on-going project using the pump-probe spectroscopy to tune the correlated states in the homobilayer system.
