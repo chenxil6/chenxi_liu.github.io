@@ -1,7 +1,7 @@
 ---
 title: "Cavity Floquet engineering"
 collection: publications
-category: journal
+category: conference
 permalink: /publication/2024-09-06
 excerpt: 'We investigated the floquet engineering using pump-probe spectroscopy and transferable DBR cavity.'
 date: 2024-09-06
