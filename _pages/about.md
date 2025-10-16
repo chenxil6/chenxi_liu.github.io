@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student from the University of Michigan 〽️ majoring in [Engineering Physics](https://ners.engin.umich.edu/) in the College of Engineering. Right now, I am working with Professor [Hui Deng](https://sites.lsa.umich.edu/deng-lab/) in the Physics Department on quantum many-body physics, topological insulators, and floquet engineering in the low dimensional system. 
+I am a first year Ph.D. student in Quantum Science and Engineering at Princeton University. I graduated from the University of Michigan 〽️ with B.S.E in [Engineering Physics](https://ners.engin.umich.edu/) in the College of Engineering with Summa Cum Laude. Right now, I am working on simulating quantum many-body physics using superconducting circuits. During my undergraduate study, I worked with Professor [Hui Deng](https://sites.lsa.umich.edu/deng-lab/) in the Physics Department on quantum many-body physics, topological insulators, and floquet engineering in the low dimensional system. 
 
 Research Interest
 ======
